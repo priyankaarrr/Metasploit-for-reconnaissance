@@ -1,9 +1,10 @@
 # Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
-
+```
 Register Number: 212223220081
 Name: priyanka.R
+```
 # AIM:
 
 To get introduced to Metasploit Framework and to  perform reconnaissance  in pentesting .
@@ -79,5 +80,3 @@ After completing intended operations, close the session securely.
 
 ## RESULT:
 The Metasploit framework for reconnaissance is examined successfully.
-## RESULT:
-The Metasploit framework for reconnaissance is  examined successfully
