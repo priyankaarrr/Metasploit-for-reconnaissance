@@ -1,6 +1,6 @@
 # Metasploit-for-reconnaissance
 # Metasploit
-Metasploit for reconnaissance in pentesting
+Metasploit for reconnaissance in pentestin
 ```
 Register Number: 212223220081
 Name: priyanka.R
